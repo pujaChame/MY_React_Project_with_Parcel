@@ -1,0 +1,22 @@
+{
+  "name": "my_react_project_with_parcel",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.13.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "react-redux": "^9.3.0",
+    "react-router-dom": "^6.30.6"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
